@@ -28,46 +28,47 @@ Computer Engineering Graduate (2026) • Software Developer • Backend Engineer
 
 # 👨‍💻 About Me
 
-🎓 **B.E. Computer Engineering Graduate (2026)** from
-Indira College of Engineering and Management, Pune
+🎓 **B.E. Computer Engineering Graduate (2026)** from  
+**Indira College of Engineering and Management, Pune**
 
 📊 **CGPA: 9.13 / 10**
 
-💻 Passionate about **Full Stack Development, Backend Engineering,
-System Design and Artificial Intelligence**
+💻 Passionate about **Software Development, Full Stack Development,
+Backend Engineering, System Design and Artificial Intelligence**
 
 🧠 Strong foundation in:
 
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- DBMS
+- Database Management Systems
 - Operating Systems
 - Computer Networks
-- Software Engineering
 - Computer Organization
+- Software Engineering
 - System Design
 
 🚀 Experienced in building:
 
 - Full Stack Web Applications
 - REST APIs
-- Database-driven systems
-- AI-powered applications
-- Data analytics platforms
-- Android applications
-- IoT-integrated applications
+- Database-driven Applications
+- AI-powered Applications
+- Data Analytics Platforms
+- Android Applications
+- IoT-integrated Applications
 
-🤖 Currently exploring:
+🤖 Exploring:
 
 - Generative AI
 - Large Language Models
-- RAG
+- Retrieval-Augmented Generation
 - LangChain
 - LangGraph
 - AI Agents
 - Agent Orchestration
-- Vector Databases
+- Vector Embeddings
 - Tool Calling
+- AI Application Architecture
 
 ☁️ Interested in:
 
@@ -76,17 +77,13 @@ System Design and Artificial Intelligence**
 - Distributed Systems
 - Cloud Computing
 - API Architecture
-- Database Optimization
+- Database Engineering
+- System Design
 
-👥 Leadership experience:
+🌱 I believe in:
 
-- Placement Coordinator
-- NSS Coordinator
-- Student leadership and coordination
-- NGO and community activities
-
-🌱 My goal is to continuously improve as a software engineer
-by building practical, scalable and reliable systems.
+> **Writing clean code, understanding fundamentals, building practical
+> solutions, and continuously improving as a software engineer.**
 
 ---
 
@@ -94,6 +91,7 @@ by building practical, scalable and reliable systems.
 
 <table>
 <tr>
+
 <td width="25%" align="center">
 
 ### 💻 Software Engineering
@@ -101,8 +99,9 @@ by building practical, scalable and reliable systems.
 Full Stack Development  
 Backend Development  
 REST APIs  
-Clean Code  
 OOP  
+Clean Code  
+Software Architecture  
 
 </td>
 
@@ -112,9 +111,10 @@ OOP
 
 SQL  
 Database Design  
-Optimization  
+Query Optimization  
 ORM  
 API Architecture  
+Transactions  
 
 </td>
 
@@ -126,21 +126,24 @@ Generative AI
 LLMs  
 RAG  
 AI Agents  
+LangChain  
 LangGraph  
 
 </td>
 
 <td width="25%" align="center">
 
-### ☁️ Infrastructure
+### ☁️ Cloud & Systems
 
 AWS  
 Git/GitHub  
 Vercel  
 Neon  
+System Design  
 Cloud Fundamentals  
 
 </td>
+
 </tr>
 </table>
 
@@ -164,10 +167,11 @@ Cloud Fundamentals
 - Object-Oriented Programming
 - Data Structures
 - Algorithms
+- Problem Solving
 
 ---
 
-# 🌐 Frontend Development
+## 🌐 Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nextjs,tailwind" />
@@ -184,10 +188,11 @@ Cloud Fundamentals
 - Next.js
 - Tailwind CSS
 - Responsive Web Design
+- Component-based Architecture
 
 ---
 
-# ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
@@ -198,19 +203,19 @@ Cloud Fundamentals
 - Node.js
 - Express.js
 - Flask
-- Spring / Spring Boot fundamentals
+- Spring / Spring Boot
 - REST API Development
 - API Integration
 - Authentication
-- Backend Architecture
 - CRUD Operations
 - Middleware
 - Error Handling
 - API Testing
+- Backend Architecture
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis" />
@@ -225,7 +230,7 @@ Cloud Fundamentals
 ### NoSQL
 
 - MongoDB
-- Redis fundamentals
+- Redis Fundamentals
 
 ### Database Concepts
 
@@ -247,11 +252,12 @@ Cloud Fundamentals
 - Indexing
 - B-Tree / B+ Tree
 - Query Optimization
+- Concurrency
 - MVCC
 
 ---
 
-# 🤖 AI / ML / Generative AI
+## 🤖 AI / ML / Generative AI
 
 ### Artificial Intelligence
 
@@ -263,31 +269,45 @@ Cloud Fundamentals
 - AI Agents
 - Agent Orchestration
 - Tool Calling
+- AI Application Development
 - API-based AI Applications
 
-### Frameworks / Technologies
+### Frameworks & Technologies
 
 - LangChain
 - LangGraph
 - RAG Pipelines
 - OpenAI APIs
 - Gemini APIs
-- Flask
 - Python
+- Flask
 
 ### AI Application Architecture
 
 ```text
-User
-  ↓
-Application
-  ↓
-LLM / AI Agent
-  ↓
-Retriever / Tools
-  ↓
-Vector Database / External APIs
-  ↓
-Context + Reasoning
-  ↓
-Response
+                  User
+                   │
+                   ▼
+            ┌─────────────┐
+            │ Application │
+            └──────┬──────┘
+                   │
+                   ▼
+             ┌───────────┐
+             │ LLM / AI  │
+             │   Agent   │
+             └─────┬─────┘
+                   │
+          ┌────────┴────────┐
+          ▼                 ▼
+     Retriever           Tools
+          │                 │
+          ▼                 ▼
+   Vector Database    External APIs
+          │                 │
+          └────────┬────────┘
+                   ▼
+             Context + Reasoning
+                   │
+                   ▼
+                Response
