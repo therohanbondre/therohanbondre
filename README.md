@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Bondre</h1>
 
 <h3 align="center">
-Computer Engineering Graduate (2026) • Full Stack Developer • Backend Engineer • AI/ML Enthusiast
+Computer Engineering Graduate (2026) • Software Developer • Backend Engineer • AI/ML Enthusiast
 </h3>
 
 <p align="center">
