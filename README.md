@@ -54,8 +54,6 @@ Backend Engineering, System Design and Artificial Intelligence**
 - Database-driven Applications
 - AI-powered Applications
 - Data Analytics Platforms
-- Android Applications
-- IoT-integrated Applications
 
 🤖 Exploring:
 
@@ -64,11 +62,6 @@ Backend Engineering, System Design and Artificial Intelligence**
 - Retrieval-Augmented Generation
 - LangChain
 - LangGraph
-- AI Agents
-- Agent Orchestration
-- Vector Embeddings
-- Tool Calling
-- AI Application Architecture
 
 ☁️ Interested in:
 
@@ -76,8 +69,6 @@ Backend Engineering, System Design and Artificial Intelligence**
 - Scalable Systems
 - Distributed Systems
 - Cloud Computing
-- API Architecture
-- Database Engineering
 - System Design
 
 🌱 I believe in:
@@ -100,7 +91,6 @@ Full Stack Development
 Backend Development  
 REST APIs  
 OOP  
-Clean Code  
 Software Architecture  
 
 </td>
@@ -111,10 +101,7 @@ Software Architecture
 
 SQL  
 Database Design  
-Query Optimization  
-ORM  
-API Architecture  
-Transactions  
+Query Optimization 
 
 </td>
 
@@ -137,10 +124,7 @@ LangGraph
 
 AWS  
 Git/GitHub  
-Vercel  
-Neon  
-System Design  
-Cloud Fundamentals  
+
 
 </td>
 
@@ -184,10 +168,6 @@ Cloud Fundamentals
 - JavaScript
 - Bootstrap
 - React.js
-- Vite
-- Next.js
-- Tailwind CSS
-- Responsive Web Design
 - Component-based Architecture
 
 ---
@@ -202,11 +182,6 @@ Cloud Fundamentals
 
 - Node.js
 - Express.js
-- Flask
-- Spring / Spring Boot
-- REST API Development
-- API Integration
-- Authentication
 - CRUD Operations
 - Middleware
 - Error Handling
@@ -241,7 +216,6 @@ Cloud Fundamentals
 - Recursive CTEs
 - Window Functions
 - Views
-- Materialized Views
 - Stored Procedures
 - Functions
 - Triggers
@@ -251,10 +225,6 @@ Cloud Fundamentals
 - Normalization
 - Indexing
 - B-Tree / B+ Tree
-- Query Optimization
-- Concurrency
-- MVCC
-
 ---
 
 ## 🤖 AI / ML / Generative AI
